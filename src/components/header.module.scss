@@ -1,0 +1,40 @@
+
+
+header{
+    padding: 1rem 0 3rem;
+}
+
+.title{
+    color: black;
+    font-size: 3rem;
+    text-decoration: none;    
+
+}
+
+.link{
+    color: gray
+}
+
+.nav-list{
+    display:flex;
+    
+
+}
+
+.nav-item{
+    color:gray;
+    font-size: .9rem;
+    margin-right: 1.3rem;
+    text-decoration: none;
+
+}
+
+.nav-item:hover{
+    color:red;
+}
+
+
+.active-nav-item{
+
+    color: brown;
+}
