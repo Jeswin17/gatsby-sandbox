@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import Header from '../components/Header'
 import Footer from '../components/footer'
-import Layout from '../components/Layout'
+import Layout from '../components/layout'
 
 import Head from '../components/head'
 const AboutPage = () => {
